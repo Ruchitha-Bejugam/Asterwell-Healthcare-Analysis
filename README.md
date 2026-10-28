@@ -119,7 +119,7 @@ Excel / Google Sheets (COUNTIFS, XLOOKUP, INDEX/MATCH, pivot tables, data valida
 
 
 
-*One thing that surprised me was that Bristol had both long waits and high cancellations, but when I checked all 12 clinics, there was no real link. This taught me to always check the data before making a conclusion.*
+*One thing that surprised me was that Bristol Harbour had both long waits and high cancellations, but when I checked all 12 clinics, there was no real link. This taught me to always check the data before making a conclusion.*
 
 \---
 
